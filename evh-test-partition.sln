@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evh-test-partition", "evh-test-partition\evh-test-partition.csproj", "{4D3B7AB1-4B05-4313-B9C3-09C0ABEECCDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D3B7AB1-4B05-4313-B9C3-09C0ABEECCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3B7AB1-4B05-4313-B9C3-09C0ABEECCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3B7AB1-4B05-4313-B9C3-09C0ABEECCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3B7AB1-4B05-4313-B9C3-09C0ABEECCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
